@@ -9,4 +9,9 @@
 ![설명 텍스트](wordcloud_2.png)
 
 
+
+
+
+<p style="text-indent: 2em;">
 **단국대학교** 마크다운 기초 수업 자료
+</p>
