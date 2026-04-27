@@ -15,3 +15,9 @@
 <p style="text-indent: 2em;">
 **단국대학교** 마크다운 기초 수업 자료
 </p>
+
+---
+
+## 라이선스
+
+이 저장소는 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스를 따릅니다.
