@@ -32,15 +32,6 @@ Publications are listed on the [website](https://songys.github.io/me/#research).
   Department of Korean Language and Literature.
 - **PyCon Korea, August 2026**: Talk on teaching AI and the humanities to students
   new to Python.
-- **University guest lectures, 2026**: Cyber Hankuk University of Foreign Studies,
-  Graduate School, Department of AI & English colloquium (May). Talk on differences
-  across language communities in the AI open-source ecosystem.
-- **University guest lectures, 2025**: Sunchon National University, Dankook
-  University, and Kyung Hee University.
-- **ETRI Open Source Tech Day, October 2024**: Talk on the role of open-source
-  communities in sustainable growth.
-- **Hallym University, 2024**: Talks on open Korean corpora and AI-based higher
-  education in the humanities and social sciences.
 
 ## Projects
 
