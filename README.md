@@ -7,7 +7,7 @@ My interests include computational linguistics, linguistic typology, commonsense
 reasoning, phonetics, language model evaluation, and open Korean language resources.
 I teach, write, and organize communities around language and technology.
 
-[Website](https://youngsook-song.fit-shore-0664.chatgpt.site) ·
+[Website](https://songys.github.io/me/) ·
 [Full academic profile](https://sites.google.com/view/youngsooksong/%ED%99%88) ·
 [Google Scholar](https://scholar.google.com/citations?user=kp_a52kAAAAJ) ·
 [GitHub](https://github.com/songys) ·
@@ -47,7 +47,8 @@ The full publication and activity record remains available there.
 ## Website
 
 The site is a static HTML/CSS page in `dist/`. No dependencies or build step are
-required. The Sites configuration is tracked in `.openai/hosting.json`.
+required. GitHub Actions publishes `dist/` to GitHub Pages whenever `main` is
+updated. The deployment workflow is `.github/workflows/pages.yml`.
 
 To preview locally:
 
