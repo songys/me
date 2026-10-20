@@ -1,6 +1,6 @@
 # Youngsook Song
 
-Researcher at **Lablup**, working at the intersection of language and AI.
+Researcher at **Lablup**.
 Ph.D. in Korean Linguistics, **Kyung Hee University** (August 2023).
 
 My interests include computational linguistics, linguistic typology, commonsense
@@ -18,18 +18,6 @@ I teach, write, and organize communities around language and technology.
 Inference Korea is a study community focused on inference engineering: how to run
 AI models efficiently and reliably. We currently have **72 Discord members**
 (October 2026).
-
-We study *Inference Engineering* by Patrick Kiely and related research papers.
-Members take turns presenting chapters and papers, covering GPU architecture,
-inference engines, quantization, caching, model parallelism, benchmarking, and
-deployment.
-
-**After the reading and discussion phase, we plan to continue with hands-on
-sessions** to apply what we have learned about inference engines and model serving.
-
-- **Reading schedule:** 10 sessions, October 24 to December 26, 2026.
-- **Meeting time:** Saturdays at 8:00 PM KST (tentative).
-- **Timetable:** [View the study schedule](https://docs.google.com/spreadsheets/d/1T4LO2PETrdOSkE-LH4GfFXKvfwrwcla_3mnEYTLAJks/edit?usp=sharing).
 
 ## Research, teaching, and community
 
